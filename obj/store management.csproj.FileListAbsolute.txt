@@ -1,0 +1,30 @@
+D:\nimmi\store management\store management\bin\Debug\store management.exe
+D:\nimmi\store management\store management\bin\Debug\store management.pdb
+D:\nimmi\store management\store management\obj\Debug\ResolveAssemblyReference.cache
+D:\nimmi\store management\store management\obj\Debug\store_management.Properties.Resources.resources
+D:\nimmi\store management\store management\obj\Debug\store management.csproj.GenerateResource.Cache
+D:\nimmi\store management\store management\obj\Debug\store management.exe
+D:\nimmi\store management\store management\obj\Debug\store management.pdb
+D:\nimmi\store management\store management\obj\Debug\store_management.login.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.main.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.forget.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.reset.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Employee_Management.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Purchase_Details.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Sales_Details.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Customer_Records.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Supplier_Records.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Employee_Records.resources
+D:\nimmi\store management\store management\bin\Debug\store management.exe.config
+D:\nimmi\store management\store management\obj\Debug\store_management.Attendance1.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Employee_Salary.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Inventory.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Category.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Sales_Order.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Sales_Order_Report.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Sales_Bill.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Sales_bill_record.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Purchase_Order.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Purchase_ordr_record.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Purchase_bill.resources
+D:\nimmi\store management\store management\obj\Debug\store_management.Purchase_bill_record.resources
